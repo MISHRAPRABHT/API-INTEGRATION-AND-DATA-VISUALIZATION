@@ -95,3 +95,10 @@ Conclusion
 The project is fully functional, delivering weather data and insightful visualizations for London. The script is well-organized, with opportunities for minor enhancements to improve accuracy and usability. It is on track for completion, with potential for advanced features like user inputs or a GUI. Please advise on priority areas or additional requirements.
 
 
+OUTPUT
+![Image](https://github.com/user-attachments/assets/9b89b2b4-0faa-4568-97c6-e0162d9044cf)
+![Image](https://github.com/user-attachments/assets/a83ccb0d-aaed-463a-8e8b-e73157d9c302)
+![Image](https://github.com/user-attachments/assets/fb5c9d70-9b9b-421b-859c-7d783beaf28a)
+![Image](https://github.com/user-attachments/assets/ec65989c-0d78-4d2c-ad26-620e1cb4e022)
+
+
