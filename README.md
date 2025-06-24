@@ -96,6 +96,7 @@ The project is fully functional, delivering weather data and insightful visualiz
 
 
 OUTPUT
+
 ![Image](https://github.com/user-attachments/assets/9b89b2b4-0faa-4568-97c6-e0162d9044cf)
 ![Image](https://github.com/user-attachments/assets/a83ccb0d-aaed-463a-8e8b-e73157d9c302)
 ![Image](https://github.com/user-attachments/assets/fb5c9d70-9b9b-421b-859c-7d783beaf28a)
