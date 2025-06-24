@@ -1,0 +1,4 @@
+Current Weather in London
+Temp: 25.5°C
+Condition: Overcast
+Humidity: 43%
